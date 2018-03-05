@@ -1,14 +1,14 @@
-import { APMPage } from './app.po';
+import { CCMPage } from './app.po';
 
-describe('apm App', () => {
-  let page: APMPage;
+describe('CCM App', () => {
+  let page: CCMPage;
 
   beforeEach(() => {
-    page = new APMPage();
+    page = new CCMPage();
   });
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to Angular: Getting Started!!');
+    expect(page.getParagraphText()).toEqual('Welcome to Angular Crypto Coin Management App!');
   });
 });
