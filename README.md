@@ -16,4 +16,6 @@ NOTE: The installation was tested using node v6.5.0 and npm 3.10.6.
 
 Screenshots:
 
-![Alt text](./CCM_Screenshot.png?raw=true "Home Page")
+![Alt text](./CCM_Screenshot_1.png?raw=true "Coin List Page")
+
+![Alt text](./CCM_Screenshot_2.png?raw=true "Coin Details Page")
