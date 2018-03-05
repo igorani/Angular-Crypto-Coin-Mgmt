@@ -14,3 +14,6 @@ Just pull or download the project, run the command "ng serve" or "npm start" fro
 NOTE: The installation was tested using node v6.5.0 and npm 3.10.6.
 
 
+Screenshots:
+
+![Alt text](screenshot1.ong?raw=true "Home Page")
