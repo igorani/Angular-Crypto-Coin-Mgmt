@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large;
+}
+
+.panel-heading {
+    background-color: #20C66E!important;
+}
+
+.heading-title{
+    color: #20C66E!important;
+}
+
+.btn-primary {
+    background-color: #20C66E!important;
+    border-color: #20C66E!important;
+}
+
+.panel-primary{
+    border-color: #20C66E!important;
+}

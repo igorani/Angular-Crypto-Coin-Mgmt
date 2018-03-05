@@ -1,0 +1,52 @@
+[
+    {
+        "coinId": 1,
+        "coinName": "Bitcoin",
+        "coinCode": "BTC",
+        "marketCap": 197374441802,
+        "description": "This is some description about the Bitcoin",
+        "price": 11677.70,
+        "starRating": 3.5,
+        "imageUrl": "../assets/images/btc.png"
+    },
+    {
+        "coinId": 2,
+        "coinName": "Etherium",
+        "coinCode": "ETH",
+        "marketCap": 84665252499,
+        "description": "This is some description about the Etherium",
+        "price": 863.80,
+        "starRating": 4.8,
+        "imageUrl": "../assets/images/eth.png"
+    },
+    {
+        "coinId": 3,
+        "coinName": "Ripple",
+        "coinCode": "XRP",
+        "marketCap": 40514903930,
+        "description": "This is some description about the Ripple",
+        "price": 1.04,
+        "starRating": 3.8,
+        "imageUrl": "../assets/images/xrp.png"
+    },
+    {
+        "coinId": 4,
+        "coinName": "Bitcoin Cash",
+        "coinCode": "BCC",
+        "marketCap": 21824745319,
+        "description": "This is some description about the Bitcoin Cash",
+        "price": 1283.70,
+        "starRating": 2.4,
+        "imageUrl": "../assets/images/bcc.png"
+    },
+    {
+        "coinId": 5,
+        "coinName": "Litecoin",
+        "coinCode": "LTC",
+        "marketCap": 11838515994,
+        "description": "This is some description about the Litecoin",
+        "price": 213.33,
+        "starRating": 4.6,
+        "imageUrl": "../assets/images/ltc.png"
+    }
+]
