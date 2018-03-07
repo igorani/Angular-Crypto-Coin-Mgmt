@@ -10,7 +10,7 @@ It is created based on the Pluralsight course: ["Angular: Getting Started"](http
 *** RUNNING THE APP ***
 
 Just pull or download the project, open your preferred CLI, navigate to the project folder and run the commands: 
-1. "nmp install"
+1. "npm install"
 2. "npm start" or "ng serve" to start the app
 
 The app will start on localhost:4200 (if 4200 is the default port).
